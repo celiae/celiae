@@ -1,4 +1,4 @@
-# Oh~ Celiae ,That's good!
+# Oh~ Celiae ,That's good
 
 ## _celiae_
 
