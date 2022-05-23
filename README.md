@@ -10,13 +10,10 @@ _I'm celiae, a fans of ArchLinux._
 rm -rf /
 ```
 
-**I like:**
+## **I like:**
 
-- _ArchLinux_
-- _Next.js_
-- _React_
-- _Copy_
-- _Paste_
+| _ArchLinux_ | _Next.js_ | _React_ | _Copy_ | _Paste_ |
+| ----------- | --------- | ------- | ------ | ------- |
 
 ```sh
      ======    =======   ||        ====       //\       =======
@@ -25,6 +22,8 @@ rm -rf /
     \\         ||        ||         ||     //=====\\    ||
       ====//   ||=====   =======   ====   //       \\   ||=====
 ```
+
+我没有丰富的经验,也没有精彩的简历.写下一些没什么用的代码只是为了好玩,在娱乐当中学习各种工具的使用方法.
 
 [My index website](http://celiae.dns.army)
 
