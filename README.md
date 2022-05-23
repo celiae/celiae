@@ -2,7 +2,7 @@
 
 ## _celiae_
 
-_You can call me celiae, and I am a fans of ArchLinux, as well as other computer science._
+_I'm celiae, a fans of ArchLinux._
 
 > Obviously,I'm a rockie.
 
@@ -10,7 +10,7 @@ _You can call me celiae, and I am a fans of ArchLinux, as well as other computer
 rm -rf /
 ```
 
-**What I am good at:**
+**I like:**
 
 - _ArchLinux_
 - _Next.js_
