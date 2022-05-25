@@ -23,7 +23,7 @@ rm -rf /
       ====//   ||=====   =======   ====   //       \\   ||=====
 ```
 
-I don't have a lot of experience, and I don't have a great resume. I wrote some useless code just for fun and learning how to use various tools while having fun.
+我没有丰富的经验,也没有精彩的简历.写下一些没什么用的代码只是为了好玩,在娱乐当中学习各种工具的使用方法.
 
 [My index website](http://celiae.dns.army)
 
